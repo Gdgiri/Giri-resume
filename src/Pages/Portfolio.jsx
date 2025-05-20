@@ -50,6 +50,24 @@ const Portfolio = () => {
     },
     {
       id: 6,
+      title: "Nainaa-Cabs",
+      description:
+        "Users can book cabs on the platform, with role-based access for admins and users. Admins see booking stats via charts and confirm bookings, with notifications sent to both parties.",
+      imageUrl:
+        "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%20(163).png?alt=media&token=cfa0c130-3218-40e9-b5a0-b597f6fa8eb6",
+      projectLink: "https://nainaa-cabs.com/",
+    },
+    {
+      id: 7,
+      title: "Book My Service",
+      description:
+        "Users can book services through this static site. Admin receives a mail, contacts the user, and confirms the service. Users can also reach the admin via WhatsApp or email.",
+      imageUrl:
+        "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%20(164).png?alt=media&token=5a58c439-f419-4839-95ae-d0284398c4cd",
+      projectLink: "https://bookmyservice.netlify.app/",
+    },
+    {
+      id: 8,
       title: "Receipe-App",
       description:
         "Users can upload their own recipes, edit or delete them anytime, and view all recipes shared by other users.",
@@ -58,7 +76,7 @@ const Portfolio = () => {
       projectLink: null,
     },
     {
-      id: 7,
+      id: 9,
       title: "Doctor Appointment",
       description: "A platform to book appointments with doctors.",
       imageUrl:
