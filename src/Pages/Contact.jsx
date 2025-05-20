@@ -17,7 +17,7 @@ const Contact = () => {
 
   return (
     <div
-      className="bg-cover bg-center py-10"
+      className="bg-cover bg-center py-10" id="contact"
       style={{ backgroundImage: 'url("/path/to/your/background.jpg")' }} // Add your background image URL here
     >
       <div className="max-w-6xl mx-auto px-4">

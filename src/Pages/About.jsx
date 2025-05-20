@@ -82,7 +82,7 @@ const skills = [
 
 const About = () => {
   return (
-    <section className="min-h-screen py-12 ">
+    <section className="min-h-screen py-12 " id="about">
       <div className="container mx-auto px-6 lg:px-20">
         {/* Title */}
         <h2 className="text-4xl font-bold text-red-600 text-center mb-6 drop-shadow-lg">

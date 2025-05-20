@@ -83,7 +83,7 @@ const Gallery = () => {
   };
 
   return (
-    <div className="py-5 m-5 perspective-1000">
+    <div className="py-5 m-5 perspective-1000" id="gallery">
       <h2 className="text-4xl font-bold text-red-600 text-center mb-6 drop-shadow-lg">
         My Certificates
       </h2>

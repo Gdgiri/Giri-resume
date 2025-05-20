@@ -2,7 +2,7 @@ import React from "react";
 
 const Main = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between p-10 mx-auto max-w-7xl mt-20 pt-23 ">
+    <div className="flex flex-col md:flex-row items-center justify-between p-10 mx-auto max-w-7xl mt-20 pt-23 " id="home">
       {/* Left Side - Text */}
       <div className="md:w-1/2 md:pr-8 space-y-4 animate-fadeInLeft">
         <h1 className="text-3xl font-bold text-left text-gray-800">

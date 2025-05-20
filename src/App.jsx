@@ -8,6 +8,7 @@ import Contact from "./Pages/Contact";
 import Gallery from "./Pages/Gallary";
 import Portfolio from "./Pages/Portfolio";
 import About from "./Pages/About";
+import Nav from "./Components/Nav";
 
 const App = () => {
   return (
@@ -16,14 +17,21 @@ const App = () => {
       <Button color="success">Click me</Button> */}
 
       <BrowserRouter>
-        <Navbar />
-        <Routes>
+        {/* <Navbar /> */}
+        <Nav />
+        {/* <Routes>
           <Route path="/" element={<Main />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/about" element={<About />} />
-        </Routes>
+        </Routes> */}
+
+        <Main />
+        <About />
+        <Portfolio />
+        <Gallery />
+        <Contact />
         <Footer />
       </BrowserRouter>
     </div>

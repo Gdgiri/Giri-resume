@@ -104,7 +104,7 @@ const Portfolio = () => {
   const projectCount = localStorage.getItem("projectCount") || 0;
 
   return (
-    <div className="py-10 px-5">
+    <div className="py-10 px-5" id="portfolio">
       <h2 className="text-4xl font-bold text-red-600 text-center mb-8 drop-shadow-lg">
         My Projects
       </h2>
