@@ -59,6 +59,12 @@ const Gallery = () => {
       imageUrl:
         "https://github.com/user-attachments/assets/2994f9c1-5620-42c8-b069-4e36b53b812f",
     },
+    {
+      id: 10,
+      title: "Parkqwik Internship Certificate",
+      imageUrl:
+        "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%202025-05-21%20094855.png?alt=media&token=db6dd904-17f6-4428-b284-c720ca71c1bc",
+    },
   ];
 
   const openModal = (index) => {
