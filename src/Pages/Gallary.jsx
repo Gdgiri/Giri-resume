@@ -7,63 +7,63 @@ const Gallery = () => {
   const certificates = [
     {
       id: 1,
+      title: "Parkqwik Internship Certificate",
+      imageUrl:
+        "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%202025-05-21%20094855.png?alt=media&token=db6dd904-17f6-4428-b284-c720ca71c1bc",
+    },
+    {
+      id: 2,
       title: "HTML5 Certificate",
       imageUrl:
         "https://github.com/user-attachments/assets/152f1552-0f3b-4165-97dd-9053827b9365",
     },
     {
-      id: 2,
+      id: 3,
       title: "CSS3 Certificate",
       imageUrl:
         "https://github.com/user-attachments/assets/730821c9-dd5f-4290-a947-13e691d167d4",
     },
     {
-      id: 3,
+      id: 4,
       title: "Javascript Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/af42c7a9-1ae3-4946-bcba-8cf639acff3d",
     },
     {
-      id: 4,
+      id: 5,
       title: "Bootstrap5 Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/1b3b3cb2-d83f-4720-b1ac-b9f5029bc5f8",
     },
     {
-      id: 5,
+      id: 6,
       title: "MySQL Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/0b7e34cd-5856-41cd-bd31-a8ed4dc264d3",
     },
     {
-      id: 6,
+      id: 7,
       title: "MongoDB Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/8cf15d69-c9c4-42ac-a86a-f5eb41efd361",
     },
     {
-      id: 7,
+      id: 8,
       title: "React JS Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/88f962b0-bb17-4bc0-8f90-f824c70d7281",
     },
     {
-      id: 8,
+      id: 9,
       title: "Node JS Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/c51c5307-9cb0-4758-9020-884b0f5a4252",
     },
     {
-      id: 9,
+      id: 10,
       title: "Full Stack Certification",
       imageUrl:
         "https://github.com/user-attachments/assets/2994f9c1-5620-42c8-b069-4e36b53b812f",
-    },
-    {
-      id: 10,
-      title: "Parkqwik Internship Certificate",
-      imageUrl:
-        "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%202025-05-21%20094855.png?alt=media&token=db6dd904-17f6-4428-b284-c720ca71c1bc",
     },
   ];
 

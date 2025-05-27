@@ -6,50 +6,6 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: "GD-Events",
-      description: "GD-Events is used to book the venues for marriage.",
-      imageUrl:
-        "https://github.com/user-attachments/assets/e147e2ab-c098-4c12-86ad-97fe6e817e8c",
-      projectLink: "https://wedding-app-gdevents.netlify.app/",
-    },
-    {
-      id: 2,
-      title: "Tamil Letters",
-      description:
-        "Developed a responsive React application with modern JavaScript features.",
-      imageUrl:
-        "https://github.com/user-attachments/assets/4edac14a-35e5-44a6-9116-c3c914458542",
-      projectLink: "https://gdgiri.github.io/tamil-letters1/",
-    },
-    {
-      id: 3,
-      title: "Book App",
-      description:
-        "Users can upload their own stories and read others' stories.",
-      imageUrl:
-        "https://github.com/user-attachments/assets/944262b7-5e52-4e13-a36e-5ab0e7b0ab17",
-      projectLink: "https://book-appgd.netlify.app/",
-    },
-    {
-      id: 4,
-      title: "Crypto Trading Platform",
-      description:
-        "Website 1 allows users to buy or sell BTC-USD, and when a transaction is made, it sends data to Website 2 for backend processing.",
-      imageUrl:
-        "https://github.com/user-attachments/assets/4ae28e6d-051d-4eb5-9425-56630b606781",
-      projectLink: "https://trading-protocol-design.netlify.app/",
-    },
-    {
-      id: 5,
-      title: "Crypto Transaction Dashboard",
-      description:
-        "Website 2 processes and stores transaction data, then forwards it to Website 3, which displays trade history in real-time.",
-      imageUrl:
-        "https://github.com/user-attachments/assets/d39d681d-4d6f-44ef-a512-4bf8c499df47",
-      projectLink: "https://trading-protocol-design2.netlify.app/",
-    },
-    {
-      id: 6,
       title: "Nainaa-Cabs",
       description:
         "Users can book cabs on the platform, with role-based access for admins and users. Admins see booking stats via charts and confirm bookings, with notifications sent to both parties.",
@@ -58,7 +14,7 @@ const Portfolio = () => {
       projectLink: "https://nainaa-cabs.com/",
     },
     {
-      id: 7,
+      id: 2,
       title: "Book My Service",
       description:
         "Users can book services through this static site. Admin receives a mail, contacts the user, and confirms the service. Users can also reach the admin via WhatsApp or email.",
@@ -66,6 +22,51 @@ const Portfolio = () => {
         "https://firebasestorage.googleapis.com/v0/b/wedease-d4f71.appspot.com/o/Screenshot%20(164).png?alt=media&token=5a58c439-f419-4839-95ae-d0284398c4cd",
       projectLink: "https://bookmyservice.netlify.app/",
     },
+    {
+      id: 3,
+      title: "GD-Events",
+      description: "GD-Events is used to book the venues for marriage.",
+      imageUrl:
+        "https://github.com/user-attachments/assets/e147e2ab-c098-4c12-86ad-97fe6e817e8c",
+      projectLink: "https://wedding-app-gdevents.netlify.app/",
+    },
+    {
+      id: 4,
+      title: "Tamil Letters",
+      description:
+        "Developed a responsive React application with modern JavaScript features.",
+      imageUrl:
+        "https://github.com/user-attachments/assets/4edac14a-35e5-44a6-9116-c3c914458542",
+      projectLink: "https://gdgiri.github.io/tamil-letters1/",
+    },
+    {
+      id: 5,
+      title: "Book App",
+      description:
+        "Users can upload their own stories and read others' stories.",
+      imageUrl:
+        "https://github.com/user-attachments/assets/944262b7-5e52-4e13-a36e-5ab0e7b0ab17",
+      projectLink: "https://book-appgd.netlify.app/",
+    },
+    {
+      id: 6,
+      title: "Crypto Trading Platform",
+      description:
+        "Website 1 allows users to buy or sell BTC-USD, and when a transaction is made, it sends data to Website 2 for backend processing.",
+      imageUrl:
+        "https://github.com/user-attachments/assets/4ae28e6d-051d-4eb5-9425-56630b606781",
+      projectLink: "https://trading-protocol-design.netlify.app/",
+    },
+    {
+      id: 7,
+      title: "Crypto Transaction Dashboard",
+      description:
+        "Website 2 processes and stores transaction data, then forwards it to Website 3, which displays trade history in real-time.",
+      imageUrl:
+        "https://github.com/user-attachments/assets/d39d681d-4d6f-44ef-a512-4bf8c499df47",
+      projectLink: "https://trading-protocol-design2.netlify.app/",
+    },
+
     {
       id: 8,
       title: "Receipe-App",
