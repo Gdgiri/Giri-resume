@@ -17,7 +17,8 @@ const Contact = () => {
 
   return (
     <div
-      className="bg-cover bg-center py-10" id="contact"
+      className="bg-cover bg-center py-10"
+      id="contact"
       style={{ backgroundImage: 'url("/path/to/your/background.jpg")' }} // Add your background image URL here
     >
       <div className="max-w-6xl mx-auto px-4">
@@ -116,7 +117,7 @@ const ContactInfo = () => (
     <ContactDetail
       icon={<FaLinkedin className="text-blue-700 mr-2" />}
       label="LinkedIn"
-      link="https://www.linkedin.com/in/giridharan-sivaramakrishnan-91353b333"
+      link="https://www.linkedin.com/in/giridharan-sivaramakrishnan-6325ab293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
       text="giridharansivaramakrishnan"
     />
     <ContactDetail

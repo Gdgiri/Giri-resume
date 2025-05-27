@@ -60,7 +60,7 @@ const Footer = () => {
             <FaGithub className="w-6 h-6" />
           </a>
           <a
-            href="https://www.linkedin.com/in/giridharan-sivaramakrishnan-91353b333"
+            href="https://www.linkedin.com/in/giridharan-sivaramakrishnan-6325ab293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             aria-label="LinkedIn"
             className="text-blue-500 hover:text-blue-700 transition-transform transform hover:scale-125"
           >
